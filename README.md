@@ -85,5 +85,9 @@ You’re good to go.
 The aim is to carry everyone along.
 Happy coding!
 
+## Additonal Links
+For additional information about getting involved, CC licensing, plugins, featured projects, etc. 
+Click this link: https://opensource.creativecommons.org/ to learn more. 
+
 Regards,
 Chioma.
