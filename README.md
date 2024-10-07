@@ -1,3 +1,5 @@
+### CC GUIDES
+
 Hello everyone. I’ve read through the contributions guides and I am going to break it down for most of us that are having difficulties understanding them.
 
 I understand that it is overwhelming being faced with lots of information and links to click on.
