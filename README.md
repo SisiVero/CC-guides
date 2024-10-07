@@ -1,4 +1,4 @@
-### Creative Commons(CC) GUIDES
+### Creative Commons (CC) GUIDES
 
 Hello everyone. I’ve read through the contributions guides and I am going to break it down for most of us that are having difficulties understanding them.
 
@@ -7,7 +7,7 @@ Below I have listed pointers to the repositories and an explanation on how to co
 
 ## What you need to know.
 
-Creative Commons(CC) has different project repositories that require contribution, not just the Vocabulary repo.
+Creative Commons (CC) has different project repositories that require contribution, not just the Vocabulary repo.
 As pointed out by @sara and as listed in the project list page, they include:
 
      a. Vocabulary Repository [Github repo](https://github.com/creativecommons/vocabulary)and  [Documentation](https://vocabulary-docs.netlify.app/#contribution)(Design system)
