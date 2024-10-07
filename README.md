@@ -10,10 +10,11 @@ Below I have listed pointers to the repositories and an explanation on how to co
 CC has different project repositories that require contribution, not just the Vocabulary repo.
 As pointed out by @possumbilities and as listed in the project list page, they include:
 
-> 1. Vocabulary Repository [Github repo](https://github.com/creativecommons/vocabulary)and  [Documentation](https://vocabulary-docs.netlify.app/#contribution)(Design system)
-> 2. Search Portal Repository ([Github repo](https://github.com/creativecommons/search))
-> 3. Resources Archive Repository ([Github repo](https://github.com/creativecommons/cc-resource-archive))
-> 4. LegalDB Repository ([Github repo](https://github.com/creativecommons/legaldb))
+> 1. [creativecommons/vocabulary](https://github.com/creativecommons/vocabulary): _A cohesive system of design for Creative Commons_
+>    - [Vocabulary - Docs](https://vocabulary-docs.netlify.app/)
+> 2. [creativecommons/search](https://github.com/creativecommons/search): _Creative Commons Search Portal_
+> 3. [creativecommons/cc-resource-archive](https://github.com/creativecommons/cc-resource-archive): _Collection of resources on Creative Commons (CC) tools and other open topics_
+> 4. [creativecommons/legaldb](https://github.com/creativecommons/legaldb): _CC Legal Database: curated repository of Case Law and Scholarship data from around the world in a Django based website._
 
 And others, but these are the highlighted ones.
 
