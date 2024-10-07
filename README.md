@@ -1,4 +1,4 @@
-### CC GUIDES
+### Creative Commons (CC) GUIDES
 
 Hello everyone. I’ve read through the contributions guides and I am going to break it down for most of us that are having difficulties understanding them.
 
@@ -7,7 +7,7 @@ Below I have listed pointers to the repositories and an explanation on how to co
 
 ## What you need to know.
 
-CC has different project repositories that require contribution, not just the Vocabulary repo.
+Creative Commons (CC) has different project repositories that require contribution, not just the Vocabulary repo.
 As pointed out by @sara and as listed in the project list page, they include:
 
      a. Vocabulary Repository [Github repo](https://github.com/creativecommons/vocabulary)and  [Documentation](https://vocabulary-docs.netlify.app/#contribution)(Design system)
@@ -21,11 +21,11 @@ And others, but these are the highlighted ones.
 
 Once you get to the repo of any project you want to contribute to:
 Click on “issues”. Go through the issues and specifically look out for the ones with the following tags or text:
-i. help wanted
-ii. good first issue  
- iii. status: ready to work
+1. help wanted
+2. good first issue  
+3. status: ready to work
 
-## 2.When you’ve seen an issue you would want to work on:
+## When you’ve seen an issue you would want to work on:
 
 You do not need to ask for permission to start working on the issue.
 You do not need to ask to be assigned the issue. You can start.
@@ -33,20 +33,20 @@ Fork the repo.
 
 ## How do you fork a repo?
 
-i. When you get to the github repo at the top right hand side of your screen you’ll see “Fork”
-ii. Click on the drop icon near it and you’ll see “Create a new fork”
-iii. Click on it and it will take you to a page.
-iv. scroll down and you’ll see a button with a green background with the text “create fork”, click on it and you’ll have your copy of it in your github repositories.
+1. When you get to the github repo at the top right hand side of your screen you’ll see “Fork”
+2. Click on the drop icon near it and you’ll see “Create a new fork”
+3. Click on it and it will take you to a page.
+4. scroll down and you’ll see a button with a green background with the text “create fork”, click on it and you’ll have your copy of it in your github repositories.
 Now, you’ve forked the repo. Create a branch.
 
 ## How do you create a branch?
 
-i. Once you fork the repo, it will take you to the repo. At the top left corner of your screen, you’ll see “Branch” (The second button).
-ii. Click on it. At the top left corner of your screen, you’ll see a green button with the text “New Branch”.
-iii. Click on it and you’ll be asked to name your branch. Name it in accordance with the change you want to implement.
+1. Once you fork the repo, it will take you to the repo. At the top left corner of your screen, you’ll see “Branch” (The second button).
+2. Click on it. At the top left corner of your screen, you’ll see a green button with the text “New Branch”.
+3. Click on it and you’ll be asked to name your branch. Name it in accordance with the change you want to implement.
 
 Now you have your branch. You can now clone your branch.
-i. It is the same way as cloning a normal repo. Only that. You’ll click on the branch you created. And Follow the instructions as I mentioned in an earlier thread (I’ll post the link).
+1. It is the same way as cloning a normal repo. Only that. You’ll click on the branch you created. And Follow the instructions as I mentioned in an earlier thread (I’ll post the link).
 Now, you are ready to make your changes.
 
 ## What if there are issues but they do not have the tags mentioned?
