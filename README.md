@@ -7,7 +7,7 @@ Below I have listed pointers to the repositories and an explanation on how to co
 
 ## What you need to know.
 
-CC has different project repositories that require contribution, not just the Vocabulary repo.
+Creative Commons (CC) has different project repositories that require contribution, not just the Vocabulary repo.
 As pointed out by @possumbilities and as listed in the project list page, they include:
 
 > 1. [creativecommons/vocabulary](https://github.com/creativecommons/vocabulary): _A cohesive system of design for Creative Commons_
@@ -26,7 +26,7 @@ Click on “issues”. Go through the issues and specifically look out for the o
 2. good first issue  
 3. status: ready to work
 
-## 2.When you’ve seen an issue you would want to work on:
+## When you’ve seen an issue you would want to work on:
 
 You do not need to ask for permission to start working on the issue.
 You do not need to ask to be assigned the issue. You can start.
