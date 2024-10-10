@@ -72,4 +72,4 @@ After committing, push your changes to your forked repository:
 
 - Keep your pull request focused on one thing.
 - Write a clear and descriptive title and include details in the pull request.
-- If respondign to an exisitng issue, Pease reference it your pull request. See [this resource](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/linking-a-pull-request-to-an-issue) for more information on how to do that.
+- If responding to an existing issue, please reference it your pull request. See [this resource](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/linking-a-pull-request-to-an-issue) for more information on how to do that.
