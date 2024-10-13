@@ -1,7 +1,7 @@
 # Keyboard Shortcuts
 
 
-Here are some of my favorite shortcuts to reduce keystrokes and aid in a smooth developer experience:
+Here are some shortcuts to reduce keystrokes and aid in a smooth developer experience:
 
 
 ## **Windows 🖥️**
