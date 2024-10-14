@@ -86,6 +86,9 @@ You’re good to go.
 The aim is to carry everyone along.
 Happy coding!
 
+## Contributing
+See [CONTRIBUTING.md](https://github.com/SisiVero/CC-guides/blob/main/CONTRIBUTING.md)
+
 ## Additonal Links
 For additional information about getting involved, CC licensing, plugins, featured projects, etc. 
 Click this link: https://opensource.creativecommons.org/ to learn more. 
